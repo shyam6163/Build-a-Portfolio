@@ -1,4 +1,4 @@
-# Project 2: Build a Portfolio Site
+### Build a Portfolio Site
 ### by Chinta Shyam Prasad
 
 Build a Portfolio Site project, part of the Udacity [Full Stack Web Developer
