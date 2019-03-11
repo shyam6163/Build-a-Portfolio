@@ -1,5 +1,5 @@
 # Project 2: Build a Portfolio Site
-### by Tilak Babu
+### by Chinta Shyam Prasad
 
 Build a Portfolio Site project, part of the Udacity [Full Stack Web Developer
 Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
